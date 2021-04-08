@@ -19,3 +19,10 @@ E: to escape from the enemy;
 Up: to jump;
 
 Left and Right: move;
+
+# How to Open
+Download the zip of this repository, extract it and launch the IsekaiServer.jar
+
+Click Start
+
+Open the IsekaiBattle.jar, enter a User Name and you're good to play
